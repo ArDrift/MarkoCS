@@ -41,7 +41,6 @@ plugins: # previsously gems
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-remote-theme
-  - jekyll-language-plugin
 feed:
   path: atom.xml
 
