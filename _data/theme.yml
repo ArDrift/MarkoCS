@@ -3,22 +3,22 @@ skin: default # default, night, plum, sea, soft, steel
 
 # Theme Text
 t:
-  skip_links: "Skip links"
-  skip_primary_nav: "Skip to primary navigation"
-  skip_content: "Skip to content"
-  skip_footer: "Skip to footer"
-  menu: "Menu"
-  home: "Home"
-  newer: "Newer"
-  older: "Older"
+  skip_links: "Ugrás a hivatkozásokra"
+  skip_primary_nav: "Ugrás a főoldali navigációra"
+  skip_content: "Ugrás a tartalomhoz"
+  skip_footer: "Ugrás a lábjegyzethez"
+  menu: "Menü"
+  home: "Főoldal"
+  newer: "Újabb"
+  older: "Régibb"
   email: "Email"
-  subscribe: "Subscribe"
-  read_more: "Read More"
-  posts: "Posts"
-  page: "Page"
+  subscribe: "Feliratkozás"
+  read_more: "Olvass tovább"
+  posts: "Bejegyzések"
+  page: "Oldal"
   of: "of"
-  min_read: "min read"
-  present: "Present"
+  min_read: "perc"
+  present: "Jelen"
 
 # Google Fonts
 google_fonts:
