@@ -16,9 +16,7 @@
 lang: en-US
 title: Markó Csárda
 email:
-description: >-
-  A Markó Csárda a kezdetektől:
-  Finom, egyszerű magyaros ételek, olcsó árak, a vendégek szeretete.
+description:
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
