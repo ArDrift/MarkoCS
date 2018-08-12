@@ -8,3 +8,13 @@
 @import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
 
 @import "basically-basic";
+
+img {
+  display: block;
+}
+
+.ginop-infoblokk {
+  margin-right: -21%;
+  float: right;
+  width: 50%;
+}
