@@ -4,7 +4,7 @@ layout: page
 permalink: /ginop/
 ---
 
-<img class="ginop-infoblokk" src="/assets/images/infoblokk_kedv_final_CMYK_ESZA.jpg">
+<img class="ginop-infoblokk" src="{{ "/assets/images/infoblokk_kedv_final_CMYK_ESZA.jpg" | prepend: site.baseurl }}">
 
 **Projekt megnevezése:**
 
